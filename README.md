@@ -1,4 +1,4 @@
-cherrymusicctrl
+CherryMusic Control
 ===============
 
 You use [CherryMusic](http://www.fomori.org/cherrymusic/) as a standart music player, 
