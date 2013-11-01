@@ -13,4 +13,4 @@ It looks like this:
 ![Screenshot](http://sets88.com/static/media/uploads/images/cherrymusicctrl/cherrymusicctrl.png)
 
 
-You can use a quick Key shortcut Ctrl + Space to Play/Pause
+You can use a quick Key shortcut "Ctrl + Space" to Play/Pause
