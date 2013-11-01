@@ -11,3 +11,6 @@ Now your life will become abit easier, you have a widget with all buttons you ne
 It looks like this:
 
 ![Screenshot](http://sets88.com/static/media/uploads/images/cherrymusicctrl/cherrymusicctrl.png)
+
+
+You can use a quick Key shortcut Ctrl + Space to Play/Pause
