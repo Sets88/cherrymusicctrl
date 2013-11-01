@@ -1,4 +1,4 @@
-CherryMusic Control Firefox addon
+CherryMusic Control (Firefox addon)
 ===============
 
 You use [CherryMusic](http://www.fomori.org/cherrymusic/) as a standart music player, 
