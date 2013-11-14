@@ -1,5 +1,5 @@
 var pause = document.getElementsByClassName("jp-pause")[0];
-var songtitle = document.getElementsByClassName("cm-songtitle")[0].innerHTML
+var songtitle = document.getElementsByClassName("cm-songtitle")[0].textContent
 if (pause.style.display != 'none') {
     self.postMessage(songtitle + "</br><b>Playing</b>");
 }
